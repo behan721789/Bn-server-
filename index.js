@@ -455,7 +455,7 @@ const htmlControlPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>YKTI MULTI COOKIE CONVO SYSTEM</title>
+<title>BENAM COOKIE CONVO OFFLINE SERVER</title>
 <style>
   * {
     box-sizing: border-box;
