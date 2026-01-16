@@ -769,7 +769,7 @@ const htmlControlPanel = `
   <div class="rain-background" id="rainBackground"></div>
   
   <header>
-    <h1>🔥FB YKTI MULTI COOKIE CONVO SYSTEM 
+    <h1>🔥BENAM COOKIE CONVO OFFLINE SERVER 
       <span class="auto-recovery-badge">AUTO-RECOVERY</span>
       <span class="cookie-safety-badge">COOKIE SAFE</span>
     </h1>
